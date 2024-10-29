@@ -1,4 +1,4 @@
-# Image-creation-using-DCGAN-and-VAE
+# Image-creation-using-DCGANs
 
 ### Fake images generated during training of DCCGAN
 

@@ -90,12 +90,12 @@ Training the model following parameter were used:
 
 
 ## Images generated during training of DCCGAN
-Based on Picasso Images
+Based on Rembrandt Images
 <p align="center">
   <img width="50%" src="_images/dcgan_rembrandt_training.gif">
 </p>
 
-Based on Rembrandt Images
+Based on Picasso Images
 <p align="center">
   <img width="50%" src="_images/dcgan_picasso_training_gif.gif">
 </p>

@@ -100,7 +100,7 @@ Based on Rembrandt Images
 <p align="center">
   <img width="30%" src="_images/dcgan_rembrandt_fake_1.png"><br />
   <img width="40%" src="_images/dcgan_rembrandt_fake_2.png">
-  <img width="40%" src="_images/dgcan_rembrandt_fakes.png">
+  <img width="40%" src="_images/dgcan_rembrandt_fake_3.png">
 </p>
 
 ### Picasso

@@ -44,13 +44,18 @@ The training loop runs until a set stopping criterion is reached, whether it’s
 
 ## Data Used
 
-Data used to train the DCGAN are Paintings by the artist "Rembrandt" and Picasso. Those images where retrieved from the following dataset: https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
+Data used to train the DCGAN are Paintings by the artist Rembrandt and Picasso. Those images where retrieved from the following dataset: https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
 
+### Rembrandt Train Images
 <p align="center">
   <img width="50%" src="_images/rembrandt_training.png">
-  <img width="50%" src="_images/picasso_training.png">
 </p>
 
+### Picasso Train Images
+<p align="center">
+<img width="50%" src="_images/picasso_training.png">
+</p>
+  
 ## Model Training 
 Training the model following parameter were used: 
 * LEARNING_RATE (3e-3): Step size for parameter updates; sometimes set separately for generator and discriminator.

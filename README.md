@@ -110,6 +110,6 @@ Based on Rembrandt Images
 
 ### Picasso
 <p align="center">
-  <img width="30%" src="_images/dcgan_picasso_training_fake_1.png">
+  <img width="30%" src="_images/dcgan_picasso_training_fake_1.png"><br />
   <img width="40%" src="_images/dcgan_picasso_training_fake_2.png">
 </p>

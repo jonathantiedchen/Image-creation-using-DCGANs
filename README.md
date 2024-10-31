@@ -3,8 +3,8 @@
 A Deep Convolutional Generative Adversarial Network (DCGAN) is a type of GAN that leverages convolutional layers in both its generator and discriminator networks, making it particularly effective at generating realistic images.
 
 ## Key Components:
-* **Generator:** This network takes in random noise (usually a vector from a normal distribution) and upsamples it through transposed convolutional layers (also known as "deconvolutions") to generate a realistic-looking image. Activation functions like ReLU and Tanh are commonly used.;
-* **Discriminator:** This network is a convolutional neural network (CNN) that classifies images as real or fake by downsampling them through successive convolutional layers. It typically uses LeakyReLU as the activation function and outputs a probability score via a Sigmoid function.;
+* **Generator:** This network takes in random noise (usually a vector from a normal distribution) and upsamples it through transposed convolutional layers (also known as "deconvolutions") to generate a realistic-looking image. Activation functions like ReLU and Tanh are commonly used.
+* **Discriminator:** This network is a convolutional neural network (CNN) that classifies images as real or fake by downsampling them through successive convolutional layers. It typically uses LeakyReLU as the activation function and outputs a probability score via a Sigmoid function.
 
 <p align="center">
   <img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cCa0FX-yXOPJ86bUkwCEAA.png">
